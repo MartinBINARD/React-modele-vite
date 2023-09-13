@@ -10,6 +10,14 @@ then open the repo with VSCode.
 
 ![terminal_screenshot](./public/terminal_screenshot.png)
 
+## TOOLS
+
+ - react
+ - react-dom
+ - typeScript
+ - vite
+ - eslint-airbnb
+
 ## Use
 
 It's basically a copying/pasting the interesting parts
@@ -36,3 +44,25 @@ To create a modele template :
       #   - new project name
       #   - Git repo SSH address (ex : git@github.com:random-project.git)
       ```
+
+## Additional tools reminder
+
+- COMBO 1 : react-redux + @reduxjs/toolkit
+
+```
+npm i react-redux @reduxjs/toolkit
+```
+or
+```
+yarn add react-redux @reduxjs/toolkit
+```
+
+- COMBO 2 : recoil
+
+```
+npm i recoil
+```
+or
+```
+yarn add recoil
+```
